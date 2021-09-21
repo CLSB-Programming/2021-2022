@@ -1,2 +1,2 @@
 # Pathfinder
-Making the pathfinder algorithm
+<h1>Making the A* pathfinder algorithm </h1>
