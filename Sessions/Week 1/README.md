@@ -4,7 +4,6 @@
   <li>:doughnut: Take a doughnut</li>
   <li>:see_no_evil: :hear_no_evil: :speak_no_evil: Don't use PHP</li>
   <li>:computer: Code!</li>
-  <li></li>
 <ul>
 
 <br>
