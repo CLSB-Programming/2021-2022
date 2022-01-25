@@ -4,7 +4,7 @@ Each challenge = 1 :doughnut:
 Number of stars = number of rows 
 
 <h3>Example</h3>
-```
+<p>
 Rows = 5
 
 *
@@ -12,15 +12,15 @@ Rows = 5
 ***
 ****
 *****
-```
+</p>
 <h2>Christmas Tree</h2>
 
 <h3>Example</h3>
-```
+<p>
 Rows = 5
      *
     ***
    *****
   *******
  *********
-```
+</p>
