@@ -1,5 +1,5 @@
 <h1>Challenges</h1>
-Each challenge = 1 :doughnut:
+1 challenge = 1 :doughnut:
 <h2>Star Steps</h2>
 Number of stars = number of rows 
 
