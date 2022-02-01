@@ -5,6 +5,7 @@ Number of stars = number of rows
 
 <h3>Example</h3>
 Rows = 5
+
 ```
 *
 **
@@ -15,8 +16,8 @@ Rows = 5
 <h2>Christmas Tree</h2>
 
 <h3>Example</h3>
-```
 Rows = 5
+```
      *
     ***
    *****
